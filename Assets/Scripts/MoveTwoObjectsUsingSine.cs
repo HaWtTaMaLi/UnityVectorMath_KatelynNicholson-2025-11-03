@@ -2,15 +2,21 @@ using UnityEngine;
 
 public class MoveTwoObjectsUsingSine : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    //SCENE 1
+
+    public GameObject CubeOne;
+    public GameObject CubeTwo;
+    //choose axis in inspector
+    // use Sine 
+
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         
     }
+
 }

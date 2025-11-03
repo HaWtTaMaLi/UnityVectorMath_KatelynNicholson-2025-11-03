@@ -2,15 +2,19 @@ using UnityEngine;
 
 public class SumCubeOneTwoPositionVectors : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    //SCENE 1
+    //create a separate script which sets its position vector to the sum of the other two cubes position vectors.
+
+    public GameObject CubeThree;
+
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         
     }
+
 }
